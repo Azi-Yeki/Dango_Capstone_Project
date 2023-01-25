@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django Capstone Project
 
 ## Description
